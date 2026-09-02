@@ -12,12 +12,10 @@
 
 **Hi there!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"/>  
 
-I'm Samuel, a data analyst with a background in industrial mathematics.
+I'm Samuel, a data analyst with a background in industrial mathematics. I work with data using Python, SQL, and Tableau, and I'm currently learning and exploring more of machine learning.
 
-I work at the intersection of data, business, and technology, helping teams move from gut feeling to grounded decisions. My work spans customer segmentation, marketing analytics, and operational reporting, using Python, SQL, and Tableau to surface what the numbers are actually saying.
+I am interested in using AI to understand and predict human habits and decision-making, and in exploring how AI can learn to make decisions and predictions. I also enjoy building products that make everyday tasks a little easier and help people use their time and resources better.
 
-I'm currently deepening my machine learning practice, applying predictive modeling to real business problems: churn prediction, customer clustering, and pattern recognition in messy datasets.
-
-Outside of work, I play piano and drums. Music and data have more in common than people think; both are about finding the pattern underneath the noise.
+Outside of all that, I love drawing and playing the piano and drums.
 
 Let's connect!
